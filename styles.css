@@ -1,0 +1,41 @@
+.mrs-saint-delafield-regular {
+    font-family: "Mrs Saint Delafield", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+body {
+    background-color: #F8F8F8;
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar-custom {
+    background-color: #EAD6C7;
+}
+
+.navbar-logo, .navbar-content {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-color: #FFF;
+}
+
+.navbar-logo {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-logo h1 {
+    font-family: "Mrs Saint Delafield", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
